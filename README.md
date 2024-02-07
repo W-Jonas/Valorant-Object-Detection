@@ -36,3 +36,9 @@ python main.py
 ```plaintext
 This project is licensed under the MIT License.
 ```
+
+## Disclaimer
+
+```plaintext
+This project is not affiliated with Riot Games or Valorant. The model is intended for educational purposes only and should not be used to cheat or exploit the game. I do not condone cheating in any form and will not be held responsible for any misuse of the project.
+```
