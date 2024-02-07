@@ -28,7 +28,7 @@ The model runs best on CUDA enabled GPUs. You can re-train with the given datase
 To run the object detection model, execute the following command:
 
 ```bash
-python main.py
+python predict.py
 ```
 
 ## License
