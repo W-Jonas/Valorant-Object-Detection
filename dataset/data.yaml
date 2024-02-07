@@ -1,0 +1,13 @@
+train: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/train/images
+val: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/valid/images
+test: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/test/images
+
+nc: 2
+names: ['enemyBody', 'enemyHead']
+
+roboflow:
+  workspace: kwan-li-jqief
+  project: valorant-object-detection2
+  version: 7
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/kwan-li-jqief/valorant-object-detection2/dataset/7

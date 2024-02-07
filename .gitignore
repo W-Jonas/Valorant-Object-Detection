@@ -1,0 +1,16 @@
+pixel.py
+test.py
+output/valH-init.exe
+rentry/rentry.txt
+runs/detect/train10/args.yaml
+runs/detect/train2/args.yaml
+runs/detect/train3/args.yaml
+runs/detect/train4/args.yaml
+runs/detect/train5/args.yaml
+runs/detect/train6/args.yaml
+runs/detect/train7/args.yaml
+runs/detect/train8/args.yaml
+runs/detect/train9/args.yaml
+Martz90-Hex-Settings.ico
+Martz90-Hex-Settings.512.png
+getHWID.py
