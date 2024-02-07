@@ -8,6 +8,10 @@ The dataset includes 1570 images with annotations in YOLOv8 format. Each image h
 
 The creator of the dataset can be found at the following link: https://universe.roboflow.com/kwan-li-jqief/valorant-object-detection2
 
+## Additional Information
+
+The model runs best on CUDA enabled GPUs. You can re-train with the given dataset or your own dataset and export as ONNX to run on a CPU.
+
 ## Requirements
 
 - Python 3.8 or later
