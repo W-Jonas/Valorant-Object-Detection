@@ -6,6 +6,8 @@ This repository contains the code for an object detection model trained to detec
 
 The dataset includes 1570 images with annotations in YOLOv8 format. Each image has been pre-processed to auto-orient the pixel data and resized to 416x416. Augmentation has been applied to create 3 versions of each source image with a random Gaussian blur of between 0 and 0.5 pixels.
 
+The creator of the dataset can be found at the following link: https://universe.roboflow.com/kwan-li-jqief/valorant-object-detection2
+
 ## Requirements
 
 - Python 3.8 or later
