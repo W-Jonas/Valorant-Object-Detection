@@ -1,6 +1,6 @@
-train: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/train/images
-val: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/valid/images
-test: C:/Users/jonas/Desktop/Stuff/Code/val aim/dataset/test/images
+train: #your path to train images
+val: #your path to validation images
+test: #your path to test images
 
 nc: 2
 names: ['enemyBody', 'enemyHead']
