@@ -17,15 +17,6 @@ The dataset includes 1570 images with annotations in YOLOv8 format. Each image h
 - Winsound
 - OpenCV
 
-## Installation
-
-1. Clone this repository.
-2. Install the required packages.
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To run the object detection model, execute the following command:
@@ -37,6 +28,5 @@ python main.py
 ## License
 
 ```plaintext
-
 This project is licensed under the MIT License.
 ```
